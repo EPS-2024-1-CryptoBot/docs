@@ -1,4 +1,6 @@
-# CryptoBot-UnB
+# CryptoBot UnB
+
+## Sobre
 
 CryptoBot UnB, a solução definitiva para maximizar suas negociações de criptomoedas de forma automatizada e eficiente. Este inovador software combina tecnologia avançada com algoritmos inteligentes para oferecer uma experiência de negociação simplificada e lucrativa.
 
@@ -20,14 +22,11 @@ Benefícios Adicionais:
 
 - Segurança de Dados: Priorizamos a segurança dos seus dados e fundos financeiros.
 
-## Integrantes
+## Alunos
 
-### 2024-1
-
-| Matricula | Nome  | E-mail |
-|-----------|------|--------|
-| - | Ailton Aires | |
-| 180123459 | João Vitor de Souza Durso |   |
-| - | Kevin Batista |  |
-| - | Victor Buendia |  |
-
+| Matrícula  | Aluno                                    | Github                                                |
+| ---------- | ---------------------------------------- | ----------------------------------------------------- |
+| 00/0000000 | Ailton Aires       |  [ailtonaires](https://github.com/ailtonaires)   |
+| 18/0123459 | João Vitor de Souza Durso | [jvsdurso](https://github.com/jvsdurso) |
+| 00/0000000 | Herick de Carvalho Lima |   [k3vin-batista](https://github.com/k3vin-batista) |
+| 00/0000000 | Victor Buendia | [Victor-Buendia](https://github.com/Victor-Buendia) |

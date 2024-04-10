@@ -6,8 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/EPS-2024-1-Cryptobot/docs/master/docs/assets/logo/logobot.png"/>
+  <!-- Theme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <style>
+    :root {
+      --cover-background-image: linear-gradient(0deg, rgba(0,51,102,1) 0%, rgba(0,102,51,1) 100%);
+    }
+  </style>
+  <link rel="icon" type="image/png" href="https://github.com/EPS-2024-1-Cryptobot/docs/assets/69814362/a01577a9-bb81-4968-b2f1-80ed2e332cce"/>
 </head>
 <body>
   <div id="app"></div>
@@ -18,7 +24,7 @@
       subMaxLevel: 2,
       loadSidebar: true,
       loadNavbar: true,
-      themeColor: '#4CD9FF',
+      themeColor: '#008729',
       coverpage: true,
       logo: "/assets/logo/logobot.png",
       search: {
@@ -26,14 +32,11 @@
             "/ zh CN /": "Procurar",
             "/": "Busque por palavras chaves",
           },
-
-          noData: "Sem Resultado",
           noData: {
             "/ zh CN /": "Resultado não encontrado",
             "/": "Sem Resultado",
           },
         },
-
       themeable: {
         readyTransition: true,
         responsiveTables: true,

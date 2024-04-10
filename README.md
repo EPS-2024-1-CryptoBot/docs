@@ -1,4 +1,4 @@
-# CryptoBot-
+# CryptoBot-UnB
 
 CryptoBot UnB, a solução definitiva para maximizar suas negociações de criptomoedas de forma automatizada e eficiente. Este inovador software combina tecnologia avançada com algoritmos inteligentes para oferecer uma experiência de negociação simplificada e lucrativa.
 

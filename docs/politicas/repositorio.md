@@ -38,34 +38,6 @@ Existem 3 tipos de branches, que, para projetos de menor escopo, como este, poss
 
 **Existe somente uma branch Main!** Essa branch contém o projeto em seu estado mais estável. É nessa branch que se deve ter todos os arquivos antes de alguma _release_. Quando alguma funcionalidade é implementada, deve ser feito um _pull request_ para essa branch, que será analisada pelo colaborador responsável.
 
-Deverão ser utilizadas _tags_, o que eliminará a necessidade de criação de branches develop. Com as _tags_ têm-se referência de versão, correções e afins. Deve-se associar _tags_ aos commits, quando necessário.
-
-- **Para criar tags:**
-
-``` git
-git tag -a v1.1 -m "Descrição da tag"
-```
-
-Substitua os números dentro do seu contexto de versão
-
-- **Para transferir tags para o rep:**
-
-``` git
-git push origin --tags
-```
-
-- **Para associar tags com commits:**
-
-``` git
-git tag -a nomedatag hashcode-do-commit
-```
-
-- **Para listar tags:**
-
-``` git
-git tag
-```
-
 #### Features
 
 Essa ramificação é criada sempre que uma issue endereça uma nova funcionalidade para o projeto. **Essa branch é criada a partir da [Main](#Main) e é mesclada à mesma branch**. Para criar uma branch desse tipo, devemos executar os comandos:

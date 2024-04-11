@@ -4,7 +4,7 @@
 
 | Data | Versão | Modificação | Autor |
 | :- | :- | :- | :- |
-| 20/11/2022 | 0.1    | Criação do documento | [João Durso](https://github.com/jvsdurso)| 
+| 20/11/2022 | 0.1 | Criação do documento | [João Durso](https://github.com/jvsdurso) | 
 
 ## Objetivo:
 

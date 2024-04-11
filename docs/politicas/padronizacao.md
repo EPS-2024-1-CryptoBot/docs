@@ -36,5 +36,6 @@ Modelo: pasta1_politicas
 - Os artefatos devem estar cada um em sua subpasta na pasta de sua entrega, a subpasta do artefato deve ser o mesmo do artefato principal. Ex: O artefato tap deve ficar na subpasta tap na pasta base
 - Adicionar os artefatos concluídos no arquivo sidebar.md para que estejam presentes no GitPages do projeto.
 - Pastas, subpastas e arquivos relacionados as sprints só devem ser alterados com conteúdos condizentes a própria.
+- Quadro de versionamento deve incrementar a versão em "0.1" em cada alteração. Além disso, deve-se utilizar apenas o primeiro nome e um sobrenome.
 
 

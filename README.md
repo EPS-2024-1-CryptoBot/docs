@@ -16,7 +16,7 @@ Recursos Principais:
 
 Benefícios Adicionais:
 
-- 24/7 de Operação: O CryptoBot Pro funciona ininterruptamente, permitindo que você capitalize em oportunidades de mercado a qualquer hora do dia ou da noite.
+- 24/7 de Operação: O CryptoBot funciona ininterruptamente, permitindo que você capitalize em oportunidades de mercado a qualquer hora do dia ou da noite.
 
 - Eficiência e Velocidade: Reduza significativamente o tempo necessário para realizar análises e tomar decisões de negociação. 
 
@@ -24,9 +24,9 @@ Benefícios Adicionais:
 
 ## Alunos
 
-| Matrícula  | Aluno                                    | Github                                                |
+| Matrícula  | Aluno                                    |                                                 |
 | ---------- | ---------------------------------------- | ----------------------------------------------------- |
-| 00/0000000 | Ailton Aires       |  [ailtonaires](https://github.com/ailtonaires)   |
-| 18/0123459 | João Vitor de Souza Durso | [jvsdurso](https://github.com/jvsdurso) |
-| 00/0000000 | Herick de Carvalho Lima |   [k3vin-batista](https://github.com/k3vin-batista) |
-| 00/0000000 | Victor Buendia | [Victor-Buendia](https://github.com/Victor-Buendia) |
+| 00/0000000 |   [Ailton Aires](https://github.com/ailtonaires) |  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48694290?v=4" width="100px;" alt=""/>  |
+| 18/0123459 | [João Vitor de Souza Durso](https://github.com/jvsdurso) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69814362?v=4" width="100px;" alt=""/> |
+| 00/0000000 | [Kevin Batista](https://github.com/k3vin-batista) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69855188?v=4" width="100px;" alt=""/> |
+| 00/0000000 | [Victor Buendia](https://github.com/Victor-Buendia) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54643355?v=4" width="100px;" alt=""/>  |

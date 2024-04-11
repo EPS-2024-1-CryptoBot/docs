@@ -16,7 +16,7 @@ Recursos Principais:
 
 Benefícios Adicionais:
 
-- 24/7 de Operação: O CryptoBot Pro funciona ininterruptamente, permitindo que você capitalize em oportunidades de mercado a qualquer hora do dia ou da noite.
+- 24/7 de Operação: O CryptoBot funciona ininterruptamente, permitindo que você capitalize em oportunidades de mercado a qualquer hora do dia ou da noite.
 
 - Eficiência e Velocidade: Reduza significativamente o tempo necessário para realizar análises e tomar decisões de negociação. 
 

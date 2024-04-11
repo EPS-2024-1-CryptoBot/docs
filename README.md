@@ -29,4 +29,4 @@ Benefícios Adicionais:
 | 00/0000000 |   [Ailton Aires](https://github.com/ailtonaires) |  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48694290?v=4" width="100px;" alt=""/>  |
 | 18/0123459 | [João Vitor de Souza Durso](https://github.com/jvsdurso) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69814362?v=4" width="100px;" alt=""/> |
 | 00/0000000 | [Kevin Batista](https://github.com/k3vin-batista) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69855188?v=4" width="100px;" alt=""/> |
-| 00/0000000 | [Victor Buendia](https://github.com/Victor-Buendia) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54643355?v=4" width="100px;" alt=""/>  |
+| 19/0020601 | [Victor Buendia](https://github.com/Victor-Buendia) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54643355?v=4" width="100px;" alt=""/>  |

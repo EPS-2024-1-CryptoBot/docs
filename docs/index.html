@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- Theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="./style/callout.css"> <!-- Link to your custom CSS file -->
   <style>
     :root {
       --cover-background-image: linear-gradient(0deg, rgba(0,51,102,1) 0%, rgba(0,102,51,1) 100%);
@@ -41,6 +42,10 @@
         readyTransition: true,
         responsiveTables: true,
       },
+      'page-toc': {
+        tocMaxLevel: 3,
+        target: 'h1, h2, h3'
+      },
     };
   </script>
   <!-- Docsify v4 -->
@@ -50,5 +55,7 @@
   <!-- Plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//unpkg.com/docsify-page-toc/dist/docsify-page-toc.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>

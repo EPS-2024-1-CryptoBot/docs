@@ -1,0 +1,6 @@
+.callout {
+    background-color: #f0f0f0; /* Change to desired background color */
+    border-left: 4px solid #2196F3; /* Change to desired border color */
+    padding: 10px;
+    border-radius: 5px;
+}

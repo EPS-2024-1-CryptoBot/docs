@@ -1,3 +1,5 @@
 - **Diretrizes**
     - [Política de Padronização do Repositório](./politicas/padronizacao.md)
     - [Políticas do Repositório](./politicas/repositorio.md)
+- **Lean Inception**
+    - [Quadro Lean Inception](./lean/quadro_lean.md)

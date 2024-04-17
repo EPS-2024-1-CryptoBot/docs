@@ -10,3 +10,6 @@ assignees: ''
 ## Descrição
 
 ## Critérios de aceitação
+
+- [ ]
+- [ ]

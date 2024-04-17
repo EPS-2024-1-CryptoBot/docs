@@ -5,3 +5,5 @@
     - [Quadro Lean Inception](./lean/quadro_lean.md)
 - **Backlog**
     - [Backlog do Produto](./backlog/backlog.md)
+- **Roadmap**
+    - [Roadmap do Produto](./roadmap/roadmap.md)

@@ -7,3 +7,5 @@
     - [Backlog do Produto](./backlog/backlog.md)
 - **Roadmap**
     - [Roadmap do Produto](./roadmap/roadmap.md)
+- **EAP**
+    - [Estrutura Analítica do Projeto](./eap/eap.md)

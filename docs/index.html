@@ -22,13 +22,17 @@
     window.$docsify = {
       name: 'Home',
       repo: 'https://github.com/EPS-2024-1-Cryptobot/docs',
-      subMaxLevel: 2,
+      subMaxLevel: 3,
       loadSidebar: true,
       loadNavbar: true,
       themeColor: '#008729',
       coverpage: true,
       logo: "/assets/logo/logobot_redonda.png",
       search: {
+          maxAge: 1000, // Expiration time, the default one day
+          paths: 'auto',
+          depth: 6,
+          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
           placeholder: {
             "/ zh CN /": "Procurar",
             "/": "Busque por palavras chaves",
@@ -57,5 +61,6 @@
   <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="//unpkg.com/docsify-page-toc/dist/docsify-page-toc.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 </html>

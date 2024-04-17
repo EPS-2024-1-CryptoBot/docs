@@ -1,5 +1,7 @@
 # Lean Inception
 
+## Introdução
+
 O **Lean Inception** é uma abordagem colaborativa para iniciar projetos de software de forma enxuta e eficiente. Ele combina os princípios do Lean Thinking com técnicas ágeis para ajudar equipes a definir o escopo, identificar os principais requisitos e estabelecer uma visão compartilhada do produto.
 
 ## Visão do Produto
@@ -24,8 +26,6 @@ A importância da visão do produto no Lean Inception está em alinhar todas as 
 
 **O nosso produto** Presta uma consultoria para o usuário e oferece a nossa própria moeda para realizar operações em criptomoedas.
 </div>
-
-
 
 ## Funcionalidades
 
@@ -65,3 +65,10 @@ Para verificar o desenvolvimento do Lean Inception completo realizado pela equip
 > Caroli, M. 2017. Lean Inception: Como alinhar pessoas e construir o produto certo. Acesso em 16/04/2024. Disponível em <https://caroli.org/livro/lean-inception-como-alinhar-pessoas-e-construir-o-produto-certo/>.
 
 > Figma. 2024. Template-Lean-Inception. Acesso em 16/04/2024. Disponível em <https://www.figma.com/file/f1FSnDisSOHcemAIgX3UDM/Template-Lean-Inception?type=whiteboard&node-id=0-1&t=gZdjuEVv6UCerPXa-0>.
+
+## Histórico de versão
+
+| Data | Versão | Modificação | Autor |
+| :- | :- | :- | :- |
+| 16/04/2024 | 0.1 | Criação do documento | [Victor Buendia](https://github.com/Victor-Buendia) | 
+| 16/04/2024 | 0.2 | Revisão do documento | [João Durso](https://github.com/jvsdurso) | 

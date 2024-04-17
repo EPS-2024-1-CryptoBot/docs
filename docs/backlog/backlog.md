@@ -1,5 +1,7 @@
 # Backlog do Produto
 
+## Introdução
+
 O **Backlog do Produto** é uma lista ordenada de tudo o que é necessário para o produto, geralmente expresso em termos de funcionalidades ou características desejadas. Ele serve como uma **ferramenta de planejamento** que guia a equipe de desenvolvimento sobre o que deve ser trabalhado a seguir.
 
 <div class="callout">
@@ -14,3 +16,10 @@ No contexto do Lean Inception, o Backlog do Produto é obtido a partir do Sequen
 O backlog do CryptoBot pode ser acessado [clicando aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTlKi9Q9TmPhiQukMU1WKvQ2aX7Rmv4ce7ch-X-UXtfCN04w0oucnMBeqo56QEIhm5JnFsVWhmLivyR/pubhtml?gid=1172947963&single=true) ou no *widget* abaixo:
 
 [Backlog do Produto](./backlog.html ':include :type=iframe width=100% height=800')
+
+## Histórico de versão
+
+| Data | Versão | Modificação | Autor |
+| :- | :- | :- | :- |
+| 16/04/2024 | 0.1 | Criação do documento | [Victor Buendia](https://github.com/Victor-Buendia) | 
+| 16/04/2024 | 0.2 | Revisão do documento | [João Durso](https://github.com/jvsdurso) | 

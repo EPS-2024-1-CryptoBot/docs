@@ -1,6 +1,6 @@
 - **Diretrizes**
-    - [Política de Padronização do Repositório](./politicas/padronizacao.md)
-    - [Políticas do Repositório](./politicas/repositorio.md)
+    - [Código de Conduta](./CODE_OF_CONDUCT.md)
+    - [Política de Contribuição](./CONTRIBUTING.md)
 - **Lean Inception**
     - [Quadro Lean Inception](./lean/quadro_lean.md)
 - **Backlog**

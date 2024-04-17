@@ -1,5 +1,7 @@
 # Roadmap do Produto
 
+## Introdução
+
 O Roadmap do Produto é um documento estratégico que descreve a trajetória planejada para um produto, mostrando as principais funcionalidades que serão desenvolvidas ao longo do tempo. Ele serve como um guia para a equipe de desenvolvimento, stakeholders e clientes, mostrando a direção e os planos futuros para o produto.
 
 O diagrama do roadmap serve para mostrar o caminho que o produto vai seguir, quais as funcionalidades que serão desenvolvidas e quando elas serão implementadas, pensando na delimitação das sprints.
@@ -51,3 +53,10 @@ Neste projeto, cada Sprint tem uma duração definida de duas semanas (por exemp
     - [US04] Backtesting
     - [US06] Gerenciamento de perfil de investimento
     - [US07] Gerenciamento de estratégia de investimento
+
+## Histórico de versão
+
+| Data | Versão | Modificação | Autor |
+| :- | :- | :- | :- |
+| 16/04/2024 | 0.1 | Criação do documento | [Victor Buendia](https://github.com/Victor-Buendia) | 
+| 16/04/2024 | 0.2 | Revisão do documento | [João Durso](https://github.com/jvsdurso) | 

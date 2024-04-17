@@ -1,11 +1,5 @@
 # EAP (Estrutura Analítica do Projeto)
 
-## Histórico de versão
-
-| Data | Versão | Modificação | Autor |
-| :- | :- | :- | :- |
-| 16/04/2024 | 0.1 | Criação do documento | [João Durso](https://github.com/jvsdurso) | 
-
 ## Introdução
 
 Segundo o PMBOK, Estrutura Analítica do Projeto (EAP) é uma ferramenta fundamental na gestão de projetos. Ela representa visualmente o escopo do projeto, dividindo-o em componentes menores e mais gerenciáveis chamados de pacotes de trabalho. Cada pacote de trabalho na EAP é uma entrega específica do projeto e contribui para a realização dos objetivos gerais.
@@ -21,3 +15,9 @@ Uma versão em diagrama do EAP do CryptoBot que está no GitHub pode ser visto a
 ## Referência
 
 > Guia do PMBOK. Disponível em : https://www.pmi.org/pmbok-guide-standards/foundational/pmbok?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211
+
+## Histórico de versão
+
+| Data | Versão | Modificação | Autor |
+| :- | :- | :- | :- |
+| 16/04/2024 | 0.1 | Criação do documento | [João Durso](https://github.com/jvsdurso) | 

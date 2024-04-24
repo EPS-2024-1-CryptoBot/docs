@@ -33,9 +33,7 @@ O diagrama de arquitetura a seguir ilustra a estrutura geral do sistema CryptoBo
 
 O documento de arquitetura do CryptoBot pode ser acessado [clicando aqui](https://drive.google.com/file/d/1q_XES_tDbplfQkOVMqkKJ_Pc38-H0qWF/view?usp=sharing) ou visualizado abaixo:
 
-<iframe src="https://drive.google.com/file/d/1q_XES_tDbplfQkOVMqkKJ_Pc38-H0qWF/preview" width="640" height="480"></iframe>
-
-![Diagrama de Arquitetura](../assets/arquitetura/arquitetura.png)
+![Diagrama de Arquitetura](../assets/arquitetura/arquitetura_v2.png)
 
 ## Considerações Finais
 

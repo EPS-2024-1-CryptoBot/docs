@@ -9,7 +9,7 @@
     - [Roadmap do Produto](./roadmap/roadmap.md)
 - **EAP**
     - [Estrutura Analítica do Projeto](./eap/eap.md)
-- **EAP**
+- **Documento de Arquitetura**
     - [Documento de Arquitetura](./arquitetura/arquitetura.md)
 - **Relatório Contínuo**
     - [Relatório Contínuo](./relatorio/relatorio.md)

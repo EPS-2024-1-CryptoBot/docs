@@ -27,8 +27,8 @@ Data de realização: 16/04/2024
 | Nome | Compareceu e Participou |
 | ---- | -------- |
 | Ailton Aires | Sim  |
-| João Victor | Sim  |
-| Kevin | Sim  |
+| João Durso | Sim  |
+| Kevin Batista | Sim  |
 | Victor Buendia | Sim  |
 
 
@@ -44,8 +44,8 @@ Data de realização: 16/04/2024
 | Nome | Compareceu e Participou |
 | ---- | -------- |
 | Ailton Aires | Sim  |
-| João Victor | Sim  |
-| Kevin | Sim  |
+| João Durso | Sim  |
+| Kevin Batista | Sim  |
 | Victor Buendia | Sim  |
 
 ## Roadmap
@@ -59,8 +59,8 @@ Data de realização: 16/04/2024
 | Nome | Compareceu e Participou |
 | ---- | -------- |
 | Ailton Aires | Não  |
-| João Victor | Não  |
-| Kevin | Sim  |
+| João Durso | Não  |
+| Kevin Batista | Sim  |
 | Victor Buendia | Sim  |
 
 ## EAP
@@ -74,8 +74,8 @@ Data de realização: 17/04/2024
 | Nome | Compareceu e Participou |
 | ---- | -------- |
 | Ailton Aires | Sim  |
-| João Victor | Sim  |
-| Kevin | Não  |
+| João Durso | Sim  |
+| Kevin Batista | Não  |
 | Victor Buendia | Não  |
 
 ## Definição das Tecnologias
@@ -100,8 +100,8 @@ Data de realização: 18/04/2024
 | Nome | Compareceu e Participou |
 | ---- | -------- |
 | Ailton Aires | Sim  |
-| João Victor | Sim  |
-| Kevin | Sim  |
+| João Durso | Sim  |
+| Kevin Batista | Sim  |
 | Victor Buendia | Sim  |
 
 ## Sprint 1 (22 abr - 06 mai)
@@ -115,10 +115,10 @@ Na reunião de Planning da Sprint 1, a equipe definiu as atividades a serem real
 | Tarefa | Responsável |
 | ------ | ----------- |
 | Criar protótipo de baixa fidelidade | Victor Buendia |
-| Documentar arquitetura do sistema | João Victor |
-| Criação do relatório contínuo | Kevin |
+| Documentar arquitetura do sistema | João Durso |
+| Criação do relatório contínuo | Kevin Batista |
 | [[US05] CRUD de usuário](https://github.com/EPS-2024-1-CryptoBot/docs/issues/16) | Kevin Batista e Victor Buendia |
-| [[US01] Carteira de investimentos](https://github.com/orgs/EPS-2024-1-CryptoBot/projects/1/views/3?pane=issue&itemId=59996396) | João Victor e Ailton Aires |
+| [[US01] Carteira de investimentos](https://github.com/orgs/EPS-2024-1-CryptoBot/projects/1/views/3?pane=issue&itemId=59996396) | João Durso e Ailton Aires |
 
 
 

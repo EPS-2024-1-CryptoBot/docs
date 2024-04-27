@@ -1,15 +1,15 @@
 - **Diretrizes**
     - [Código de Conduta](./CODE_OF_CONDUCT.md)
     - [Política de Contribuição](./CONTRIBUTING.md)
-- **Lean Inception**
-    - [Quadro Lean Inception](./lean/quadro_lean.md)
-- **Backlog**
-    - [Backlog do Produto](./backlog/backlog.md)
-- **Roadmap**
-    - [Roadmap do Produto](./roadmap/roadmap.md)
-- **EAP**
+- **Artefatos**
+    - [Lean Inception](./lean/quadro_lean.md)
+    - [Backlog](./backlog/backlog.md)
+    - [Roadmap](./roadmap/roadmap.md)
     - [Estrutura Analítica do Projeto](./eap/eap.md)
-- **Documento de Arquitetura**
+    - [Protótipo de Média Fidelidade](./prototipos/media_fidelidade.md)
+    - [Protótipo de Alta Fidelidade](./prototipos/alta_fidelidade.md)
+- **Arquitetura**
     - [Documento de Arquitetura](./arquitetura/arquitetura.md)
-- **Relatório Contínuo**
+- **Relatório**
     - [Relatório Contínuo](./relatorio/relatorio.md)
+

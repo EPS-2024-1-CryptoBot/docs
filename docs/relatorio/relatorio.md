@@ -6,8 +6,6 @@ O relatório contínuo é um documento que descreve o andamento do projeto, most
 
 ## Sumário
 
-
-
 - [Lean Inception](#lean-inception) 
 - [Backlog](#backlog)
 - [Roadmap](#roadmap)

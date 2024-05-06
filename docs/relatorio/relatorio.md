@@ -113,10 +113,10 @@ Na reunião de Planning da Sprint 1, a equipe definiu as atividades a serem real
 | Tarefa | Responsável |
 | ------ | ----------- |
 | Criar protótipo de baixa fidelidade | Victor Buendia |
-| Documentar arquitetura do sistema | João Durso |
+| Documentar arquitetura do sistema | Ailton Aires |
 | Criação do relatório contínuo | Kevin Batista |
-| [[US05] CRUD de usuário](https://github.com/EPS-2024-1-CryptoBot/docs/issues/16) | Kevin Batista e Victor Buendia |
-| [[US01] Carteira de investimentos](https://github.com/orgs/EPS-2024-1-CryptoBot/projects/1/views/3?pane=issue&itemId=59996396) | João Durso e Ailton Aires |
+| [[US05] CRUD de usuário](https://github.com/EPS-2024-1-CryptoBot/docs/issues/16) | Ailton Aires e Kevin Batista |
+| [[US01] Carteira de investimentos](https://github.com/orgs/EPS-2024-1-CryptoBot/projects/1/views/3?pane=issue&itemId=59996396) | João Durso e Victor Buendia |
 
 
 

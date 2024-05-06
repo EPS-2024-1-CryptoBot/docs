@@ -18,7 +18,7 @@ A elaboração deste artefato foi embasada por um processo criativo, no qual os 
 
 > TERA. Prototipagem de alta fidelidade: o que é, quando, por que e como usar?. [S. l.]: Medium, 23 mar. 2020. Disponível em: https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b. Acesso em: 26 jan. 2024.
 
-> Food App Design | UX/UI ( Wireframe, Prototype, Export). Disponível em: https://www.youtube.com/watch?v=195RY7jCuZg. Acesso em: 26 jan. 2024.
+> Food App Design | UX/UI (Wireframe, Prototype, Export). Disponível em: https://www.youtube.com/watch?v=195RY7jCuZg. Acesso em: 26 jan. 2024.
 
 ## Histórico de versão
 

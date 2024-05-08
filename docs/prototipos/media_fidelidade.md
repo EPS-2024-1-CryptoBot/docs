@@ -10,7 +10,85 @@ Para desenvolver o protótipo de média fidelidade, a equipe utilizou a ferramen
 
 <div align="center">
 
-![Protótipo de Média Fidelidade](../assets/logo/logobot.png)
+![Protótipo de Média Geral](../assets/prototipo_media/backup.png)
+
+</div>
+
+<div align="center">
+
+![Carteira](../assets/prototipo_media/carteira.png)
+
+</div>
+
+<div align="center">
+
+![Cotação](../assets/prototipo_media/cotacao.png)
+
+</div>
+
+<div align="center">
+
+![Gráfico de cotações](../assets/prototipo_media/cotacao_grafico.png)
+
+</div>
+
+<div align="center">
+
+![Extrato](../assets/prototipo_media/extrato.png)
+
+</div>
+
+<div align="center">
+
+![Integração com Alexa](../assets/prototipo_media/integracao_alexa.png)
+
+</div>
+
+<div align="center">
+
+![Landing](../assets/prototipo_media/landing.png)
+
+</div>
+
+<div align="center">
+
+![Esqueci a Senha](../assets/prototipo_media/esqueci_senha.png)
+
+</div>
+
+<div align="center">
+
+![Notícias](../assets/prototipo_media/noticias.png)
+
+</div>
+
+<div align="center">
+
+![Perfil](../assets/prototipo_media/perfil.png)
+
+</div>
+
+<div align="center">
+
+![Perfil de Investimento](../assets/prototipo_media/perfil_investimento.png)
+
+</div>
+
+<div align="center">
+
+![Regras](../assets/prototipo_media/regras.png)
+
+</div>
+
+<div align="center">
+
+![Compra e Vendas](../assets/prototipo_media/tela_cryptobot.png)
+
+</div>
+
+<div align="center">
+
+![Transferência](../assets/prototipo_media/transferencia.png)
 
 </div>
 
@@ -25,3 +103,4 @@ Para desenvolver o protótipo de média fidelidade, a equipe utilizou a ferramen
 | Data | Versão | Modificação | Autor |
 | :- | :- | :- | :- |
 | 26/04/2024 | 0.1 | Criação do documento | [João Durso](https://github.com/jvsdurso) | 
+| 28/04/2024 | 0.2 | Adicionando protótipo | [João Durso](https://github.com/jvsdurso) | 

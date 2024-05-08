@@ -8,6 +8,7 @@
     - [Estrutura Analítica do Projeto](./eap/eap.md)
     - [Protótipo de Média Fidelidade](./prototipos/media_fidelidade.md)
     - [Protótipo de Alta Fidelidade](./prototipos/alta_fidelidade.md)
+    - [Riscos](./riscos/riscos.md)
 - **Arquitetura**
     - [Documento de Arquitetura](./arquitetura/arquitetura.md)
 - **Relatório**

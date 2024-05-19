@@ -102,6 +102,7 @@ Data de realização: 18/04/2024
 | Kevin Batista | Sim  |
 | Victor Buendia | Sim  |
 
+
 ## Sprint 1 (22 abr - 06 mai)
 
 ### Planning (22/04/2024)
@@ -118,5 +119,21 @@ Na reunião de Planning da Sprint 1, a equipe definiu as atividades a serem real
 | [[US05] CRUD de usuário](https://github.com/EPS-2024-1-CryptoBot/docs/issues/16) | Ailton Aires e Kevin Batista |
 | [[US01] Carteira de investimentos](https://github.com/orgs/EPS-2024-1-CryptoBot/projects/1/views/3?pane=issue&itemId=59996396) | João Durso e Victor Buendia |
 
+## Sprint 2 (07 mai - 20 mai)
 
+### Planning (07/05/2024)
 
+Na reunião de Planning da Sprint 2, a equipe revisou as entregas da Sprint 1 e definiu as atividades da nova sprint. Foram abordados os desafios encontrados na sprint anterior e ajustadas as estratégias para mitigá-los.
+
+#### Backlog da Sprint 2
+
+| Tarefa | Responsável |
+| ------ | ----------- |
+| Criar protótipo de alta fidelidade | Victor Buendia e João Durso |
+| Provisionar infraestrutura do Frontend | Victor Buendia |
+| Implementar CD do Frontend | Victor Buendia |
+| Criação da blockchain | Victor Buendia e Ailton Aires |
+| [US02] Visualização de Extrato | Kevin Batista |
+| [US03] Transações Bancárias | Ailton Aires |
+| [US09] Histórico de valores de uma cripto | Keivn Batista |
+| [US10] Tabela com cotações atuais de criptomoedas | Kevin Batista |

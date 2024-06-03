@@ -14,5 +14,5 @@
 - **Relatório**
     - [Relatório Contínuo](./relatorio/relatorio.md)
 - **Comunicação**
-    -[Comunicação da Equipe](./comunicacao/comunicacao.md)
+    - [Comunicação da Equipe](./comunicacao/comunicacao.md)
 

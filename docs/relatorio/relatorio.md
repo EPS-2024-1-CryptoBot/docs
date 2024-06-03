@@ -137,3 +137,22 @@ Na reunião de Planning da Sprint 2, a equipe revisou as entregas da Sprint 1 e 
 | [US03] Transações Bancárias | Ailton Aires |
 | [US09] Histórico de valores de uma cripto | Keivn Batista |
 | [US10] Tabela com cotações atuais de criptomoedas | Kevin Batista |
+
+## Sprint 3 (21 mai - 03 jun)
+
+### Planning (21/05/2024)
+
+Durante o Planning da Sprint 3, a equipe analisou os progressos das sprints anteriores e planejou as atividades focadas em integração e funcionalidades essenciais. Impedimentos foram discutidos e estratégias de mitigação foram ajustadas na planning.
+
+#### Backlog da Sprint 3
+
+| Tarefa | Responsável |
+| ------ | ----------- |
+| Provisionar infraestrutura para microsserviço Wallet | Victor Buendia | 
+| Implementar CD para microsserviço Wallet | Victor Buendia | 
+| Provisionar infraestrutura para microsserviço Backend | Victor Buendia | 
+| Implementar CD para microsserviço Backend | Victor Buendia | 
+| Revisar e testar funcionalidades de transações bancárias | Todos da equipe |
+| [US11] Conexão com plataformas de criptomoedas | João Durso |
+| [US12] Compra e venda de ações | João Durso |
+

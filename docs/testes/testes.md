@@ -4,18 +4,6 @@
 
 O plano de testes para o aplicativo de gerenciamento de criptomoedas detalha as condições usadas para testar o sistema, garantindo que os requisitos definidos estão sendo cumpridos. Este documento busca identificar possíveis falhas e assegurar que os principais critérios de aceitação estão sendo satisfeitos.
 
-### Metodologia
-
-A elaboração dos casos de teste objetiva identificar erros que eventualmente existam no sistema. Serão descritos testes com prioridade "Must", conforme o backlog definido pela equipe de desenvolvimento. Cada caso de teste incluirá: 
-- Identificador
-- Cenário
-- Caso de teste
-- Pré-condição
-- Etapas
-- Dados para teste (se necessário)
-- Resultado esperado
-- Resultado
-
 ### Casos de teste para o aplicativo de gerenciamento de criptomoedas
 
 #### Referência: [Backlog](../backlog/backlog.md)

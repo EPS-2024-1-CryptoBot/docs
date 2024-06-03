@@ -1,0 +1,46 @@
+### Plano de Testes
+
+### Introdução
+
+O plano de testes para o aplicativo de gerenciamento de criptomoedas detalha as condições usadas para testar o sistema, garantindo que os requisitos definidos estão sendo cumpridos. Este documento busca identificar possíveis falhas e assegurar que os principais critérios de aceitação estão sendo satisfeitos.
+
+### Metodologia
+
+A elaboração dos casos de teste objetiva identificar erros que eventualmente existam no sistema. Serão descritos testes com prioridade "Must", conforme o backlog definido pela equipe de desenvolvimento. Cada caso de teste incluirá: 
+- Identificador
+- Cenário
+- Caso de teste
+- Pré-condição
+- Etapas
+- Dados para teste (se necessário)
+- Resultado esperado
+- Resultado
+
+### Casos de teste para o aplicativo de gerenciamento de criptomoedas
+
+#### Referência: [Backlog](../backlog/backlog.md)
+
+| Id  | Cenário                                       | Caso de teste                                      | Pré-condição                                        | Etapas                                                                                                 | Dados para o teste        | Resultado esperado                                                                               | Resultado |
+|-----|-----------------------------------------------|----------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|-----------|
+| 01  | Adicionar criptomoeda à carteira              | Investidor adiciona uma criptomoeda à carteira     | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a carteira de investimentos</td></tr><tr><td>3- Selecionar criptomoeda</td></tr><tr><td>4- Adicionar à carteira</td></tr></table> | Criptomoeda válida        | Criptomoeda adicionada à carteira e saldo atualizado                                               |           |
+| 02  | Visualizar saldo de criptomoeda               | Investidor visualiza saldo atual de criptomoeda    | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a carteira de investimentos</td></tr><tr><td>3- Visualizar saldo</td></tr></table>                           | -                         | Saldo atualizado da criptomoeda exibido                                                            |           |
+| 03  | Visualizar histórico de transações            | Investidor vê histórico detalhado de transações    | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de histórico de transações</td></tr><tr><td>3- Visualizar histórico</td></tr></table>               | -                         | Histórico detalhado de todas as transações realizadas exibido                                      |           |
+| 04  | Realizar transações financeiras               | Investidor realiza transação de criptomoeda        | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de transações</td></tr><tr><td>3- Selecionar tipo de transação (compra, venda, troca)</td></tr><tr><td>4- Executar transação</td></tr></table> | Dados da transação        | Transação realizada com sucesso e saldo atualizado                                                 |           |
+| 05  | Realizar operações com criptomoeda fictícia   | Investidor realiza operações com criptomoeda fictícia | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de operações fictícias</td></tr><tr><td>3- Selecionar tipo de operação (depósito, saque, transferência)</td></tr><tr><td>4- Executar operação</td></tr></table> | Dados da operação         | Operação realizada com sucesso e saldo fictício atualizado                                          |           |
+| 06  | Gerenciar conta de usuário                    | Investidor gerencia informações de conta           | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de configurações da conta</td></tr><tr><td>3- Visualizar/editar informações</td></tr><tr><td>4- Salvar alterações</td></tr></table> | Novos dados do usuário    | Informações da conta atualizadas com sucesso                                                       |           |
+| 07  | Criar perfil de investidor                    | Investidor cria perfil de investimento             | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de perfil de investimento</td></tr><tr><td>3- Criar novo perfil</td></tr><tr><td>4- Salvar perfil</td></tr></table> | Dados do perfil           | Perfil de investimento criado com sucesso                                                          |           |
+| 08  | Mudar estratégia de investimento              | Investidor altera estratégia de investimento       | Conta de investidor criada e perfil de investimento criado | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de perfil de investimento</td></tr><tr><td>3- Selecionar nova estratégia</td></tr><tr><td>4- Salvar alterações</td></tr></table> | Nova estratégia           | Estratégia de investimento alterada com sucesso                                                    |           |
+| 09  | Acessar informações de mercado                | Investidor visualiza notícias e informações de mercado | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de notícias</td></tr><tr><td>3- Filtrar e visualizar notícias</td></tr></table>                      | -                         | Notícias e informações de mercado exibidas conforme filtros aplicados                              |           |
+| 10  | Visualizar gráficos de valorização histórica  | Investidor visualiza gráficos de valorização       | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de gráficos</td></tr><tr><td>3- Selecionar criptomoeda e período</td></tr><tr><td>4- Visualizar gráfico</td></tr></table> | Criptomoeda e período     | Gráfico de valorização histórica exibido conforme seleção                                          |           |
+| 11  | Visualizar tabela de valores de criptomoedas  | Investidor vê tabela com valores das criptomoedas  | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de tabela de valores</td></tr><tr><td>3- Visualizar e ordenar tabela</td></tr><tr><td>4- Filtrar criptomoedas</td></tr></table> | -                         | Tabela com valores das principais criptomoedas exibida e ordenada conforme seleção                 |           |
+| 12  | Conectar plataforma a exchanges               | Plataforma conecta a diversas exchanges            | Conta de investidor criada                          | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de configurações de integração</td></tr><tr><td>3- Selecionar exchanges</td></tr><tr><td>4- Conectar plataformas</td></tr></table> | Dados de conexão          | Plataforma conectada com sucesso às exchanges selecionadas                                         |           |
+| 13  | Realizar operações diretamente nas exchanges  | Investidor realiza operações de compra e venda     | Conta de investidor criada e plataforma conectada às exchanges | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de operações</td></tr><tr><td>3- Selecionar exchange e par de negociação</td></tr><tr><td>4- Executar operação</td></tr></table> | Dados da operação         | Operação realizada com sucesso e detalhes da transação exibidos                                    |           |
+| 14  | Receber notificações via Alexa                | Plataforma envia notificações via Alexa            | Conta de investidor criada e Alexa configurada      | <table><tr><td>1- Entrar na plataforma</td></tr><tr><td>2- Navegar até a seção de configurações de notificações</td></tr><tr><td>3- Configurar notificações</td></tr><tr><td>4- Receber notificações via Alexa</td></tr></table> | Regras de notificação     | Notificações sobre preço de criptomoedas enviadas via Alexa conforme regras definidas               |           |
+
+Este plano de testes garante a verificação de todas as funcionalidades prioritárias do sistema, assegurando que os critérios de aceitação definidos no backlog estão sendo cumpridos.
+
+## Histórico de versão
+
+| Data | Versão | Modificação | Autor |
+| :- | :- | :- | :- |
+| 03/06/2024 | 0.1 | Criação do documento | [Ailton Aires](https://github.com/ailtonaires) | 

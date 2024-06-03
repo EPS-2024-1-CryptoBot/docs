@@ -15,4 +15,6 @@
     - [Relatório Contínuo](./relatorio/relatorio.md)
 - **Comunicação**
     - [Comunicação da Equipe](./comunicacao/comunicacao.md)
+- **Testes**
+    - [Plano de Testes](./testes/testes.md)
 

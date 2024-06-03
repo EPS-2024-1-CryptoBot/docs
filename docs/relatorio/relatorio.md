@@ -132,6 +132,10 @@ Na reunião de Planning da Sprint 2, a equipe revisou as entregas da Sprint 1 e 
 | Criar protótipo de alta fidelidade | Victor Buendia e João Durso |
 | Provisionar infraestrutura do Frontend | Victor Buendia |
 | Implementar CD do Frontend | Victor Buendia |
+| Provisionar infraestrutura para microsserviço Wallet | Victor Buendia | 
+| Implementar CD para microsserviço Wallet | Victor Buendia | 
+| Provisionar infraestrutura para microsserviço Backend | Victor Buendia | 
+| Implementar CD para microsserviço Backend | Victor Buendia | 
 | Criação da blockchain | Victor Buendia e Ailton Aires |
 | [US02] Visualização de Extrato | Kevin Batista |
 | [US03] Transações Bancárias | Ailton Aires |
@@ -148,11 +152,54 @@ Durante o Planning da Sprint 3, a equipe analisou os progressos das sprints ante
 
 | Tarefa | Responsável |
 | ------ | ----------- |
-| Provisionar infraestrutura para microsserviço Wallet | Victor Buendia | 
-| Implementar CD para microsserviço Wallet | Victor Buendia | 
-| Provisionar infraestrutura para microsserviço Backend | Victor Buendia | 
-| Implementar CD para microsserviço Backend | Victor Buendia | 
 | Revisar e testar funcionalidades de transações bancárias | Todos da equipe |
+| Provisionar infraestrutura para microsserviço Consultant | Victor Buendia | 
+| Implementar CD para microsserviço Consultant | Victor Buendia | 
+| Inserir sonar em todos repositórios | Victor Buendia |
+| Subir coverage no sonar para backend e wallet | Victor Buendia |
+| Realizar testes na wallet | Victor Buendia |
+| Realizar testes no backend | Kevin Batista | 
+| [US04] Backtesting | João Durso |
+| [US08] Notícias sobre cripto | Ailton Aires |
 | [US11] Conexão com plataformas de criptomoedas | João Durso |
 | [US12] Compra e venda de ações | João Durso |
 
+## Sprint 4 (04 jun - 17 jun)
+
+### Planning (04/06/2024)
+
+Na reunião de Planning da Sprint 4, a equipe revisou as entregas da Sprint 3 e identificou áreas que precisam de refinamento. Novas tarefas foram planejadas, focando em funcionalidades avançadas e integração de serviços.
+
+Nesta sprint foi realizada a entrega do MVP do projeto. A ideia é que a partir de agora sejam sprints semanais nas quais sejam implementadas as funcionalidades dos outros grupos no CryptoBot UnB.
+
+#### Backlog da Sprint 4
+
+| Tarefa | Responsável |
+| ------ | ----------- |
+| [US13] Conexão com alexa | Despriorizada |
+| [US06] Gerenciamento de perfil de investimento | Despriorizada |
+| [US07] Gerenciamento de estratégia de investimento | Despriorizada |
+
+## Sprint 5 (18 jun - 01 jul)
+### Planning (18/06/2024)
+
+## Sprint 6 (02 jul - 08 jul)
+### Planning (02/06/2024)
+
+## Sprint 7 (09 jul - 15 jul)
+### Planning (09/06/2024)
+
+## Sprint 8 (16 jul - 22 jul)
+### Planning (16/06/2024)
+
+## Sprint 9 (23 jul - 29 jul)
+### Planning (23/06/2024)
+
+## Sprint 10 (30 jul - 05 ago)
+### Planning (30/06/2024)
+
+## Sprint 11 (06 ago - 12 ago)
+### Planning (06/06/2024)
+
+## Sprint 12 (13 ago - 19 ago)
+### Planning (13/06/2024)

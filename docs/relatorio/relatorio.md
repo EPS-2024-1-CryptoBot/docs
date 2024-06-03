@@ -216,10 +216,15 @@ desenvolver o bot COMPLETO apenas para desktop. Funções básicas do bot (compr
 Nesta sprint, o objetivo é consolidar as funcionalidades básicas do MVP e adicionar novos recursos que incrementem a experiência do usuário e a eficiência do CryptoBot UnB. As tarefas dessa sprint não estão inclusas no backlog, pois são retificações de outras histórias de usuário e/ou do consumo da API de outros grupos.
 
 ## Sprint 6 (02 jul - 08 jul)
-### Planning (02/06/2024)
 
-## Sprint 7 (09 jul - 15 jul)
-### Planning (09/06/2024)
+| Tarefa | Responsável |
+| ------ | ----------- |
+| Revisar e retificar a participação do grupo no desafio SEBRAE (gerar os certificados de participação nas atividades) | Ailton Aires |
+| Revisar a documentação | João Durso |
+| Preparar uma máquina virtual para instalar todo o ambiente e a aplicação | Kevin Batista |
+| Facilitar a instalação dos repositórios (_make genesis_)| Victor Buendia |
+
+Nesta sprint, o objetivo é fazer um review de todo o projeto entregue até então. Foi verificada a participação do grupo no desafio SEBRAE e desenvolvimento do slide para apresentação do Pitch do Cryptobot. Ademais, foi feita a revisão da documentação e atualização dos documentos que precisavam. Por fim, como pedido pelo professor, preparou-se uma máquina virtual para instalar todo o ambiente a aplicação, simulteaneamente à facilitação dessa instalação que antes era feita repositório por repositório, agora é feita por um único comando _make genesis_.
 
 ## Tabela de Contribuições
 

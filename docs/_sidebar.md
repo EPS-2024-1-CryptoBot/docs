@@ -13,4 +13,6 @@
     - [Documento de Arquitetura](./arquitetura/arquitetura.md)
 - **Relatório**
     - [Relatório Contínuo](./relatorio/relatorio.md)
+- **Comunicação**
+    -[Comunicação da Equipe](./comunicacao/comunicacao.md)
 

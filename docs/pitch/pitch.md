@@ -4,7 +4,7 @@
 
 ## Cansado de perder oportunidades lucrativas no mercado de criptomoedas?
 
-Com o CryptoBot 
+Com o CryptoBot UnB você não precisa mais se preocupar com isso!
 
 Imagine ter um assistente pessoal que acompanha as oscilações do mercado 24 horas por dia, 7 dias por semana, e executa trades automaticamente para você, buscando sempre o máximo retorno.
 

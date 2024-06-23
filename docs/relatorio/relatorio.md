@@ -201,27 +201,31 @@ Nesta sprint foi realizada a entrega do MVP do projeto. A ideia é que a partir 
 | [US13] Conexão com alexa | Despriorizada |
 | [US06] Gerenciamento de perfil de investimento | Despriorizada |
 | [US07] Gerenciamento de estratégia de investimento | Despriorizada |
+| Melhoria da interface gráfica | Kevin Batista e Ailton Aires |
+| Implementação da página do CryptoBot | João Durso |
+| Criação do endpoint de criptografia RSA | Victor Buendia |
 
 ## Sprint 5 (18 jun - 01 jul)
 ### Planning (18/06/2024)
+
+### Planning (18/06/2024)
+
+Na reunião de Planning da Sprint 5, a equipe revisou as entregas da Sprint 4 e avaliou o desempenho do MVP do projeto. Foram identificadas as funcionalidades finais a serem implementadas, com foco em melhorias de usabilidade e integração das capacidades do CryptoBot UnB com as funcionalidades dos outros grupos.
+
+#### Backlog da Sprint 5
+
+| Tarefa | Responsável |
+| ------ | ----------- |
+| Criação da API para guardar dados dos Trades | Victor Buendia |
+| Página de histórico de transações | Kevin Batista |
+| Integração dos dados do back no front | Kevin Batista |
+| Criação da lógica de armazenamento das credenciais do Binance | Ailton Aires |
+| Empacotamento da aplicação desktop do Bot | João Durso |
+
+Nesta sprint, o objetivo é consolidar as funcionalidades básicas do MVP e adicionar novos recursos que incrementem a experiência do usuário e a eficiência do CryptoBot UnB.
 
 ## Sprint 6 (02 jul - 08 jul)
 ### Planning (02/06/2024)
 
 ## Sprint 7 (09 jul - 15 jul)
 ### Planning (09/06/2024)
-
-## Sprint 8 (16 jul - 22 jul)
-### Planning (16/06/2024)
-
-## Sprint 9 (23 jul - 29 jul)
-### Planning (23/06/2024)
-
-## Sprint 10 (30 jul - 05 ago)
-### Planning (30/06/2024)
-
-## Sprint 11 (06 ago - 12 ago)
-### Planning (06/06/2024)
-
-## Sprint 12 (13 ago - 19 ago)
-### Planning (13/06/2024)

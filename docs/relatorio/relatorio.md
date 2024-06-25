@@ -25,16 +25,6 @@ O relatório contínuo é um documento que descreve o andamento do projeto, most
   - [Planning (02/06/2024)](#planning-02062024)
 - [Sprint 7 (09 jul - 15 jul)](#sprint-7-09-jul---15-jul)
   - [Planning (09/06/2024)](#planning-09062024)
-- [Sprint 8 (16 jul - 22 jul)](#sprint-8-16-jul---22-jul)
-  - [Planning (16/06/2024)](#planning-16062024)
-- [Sprint 9 (23 jul - 29 jul)](#sprint-9-23-jul---29-jul)
-  - [Planning (23/06/2024)](#planning-23062024)
-- [Sprint 10 (30 jul - 05 ago)](#sprint-10-30-jul---05-ago)
-  - [Planning (30/06/2024)](#planning-30062024)
-- [Sprint 11 (06 ago - 12 ago)](#sprint-11-06-ago---12-ago)
-  - [Planning (06/06/2024)](#planning-06062024)
-- [Sprint 12 (13 ago - 19 ago)](#sprint-12-13-ago---19-ago)
-  - [Planning (13/06/2024)](#planning-13062024)
 
 ## Lean Inception
 

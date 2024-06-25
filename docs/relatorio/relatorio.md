@@ -196,7 +196,6 @@ Nesta sprint foi realizada a entrega do MVP do projeto. A ideia é que a partir 
 | Criação do endpoint de criptografia RSA | Victor Buendia |
 
 ## Sprint 5 (18 jun - 01 jul)
-### Planning (18/06/2024)
 
 ### Planning (18/06/2024)
 

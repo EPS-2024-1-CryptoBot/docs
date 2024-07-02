@@ -223,42 +223,38 @@ Nesta sprint, o objetivo é consolidar as funcionalidades básicas do MVP e adic
 
 ## Participações
 
-|Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | -- | -- | -- |
-| Ailton Aires Amado |  | Excelente |
-| João Vitor de Souza Durso |  | Excelente |
-| Kevin Luis Apolinario Batista |  | Excelente |
-| Victor Buendia Cruz de Alvim |  |  Excelente |
+| Ailton Aires Amado | Documentação da arquitetura do sistema, criação da lógica de armazenamento das credenciais do Binance, co-responsável pelo CRUD de usuário, co-responsável pela interface gráfica | Excelente |
+| João Vitor de Souza Durso | Desenvolvimento de funcionalidades de compra e venda de ações, implementação e empacotamento da aplicação desktop do bot, desenvolvimento da aba Cryptobot na interface web | Excelente |
+| Kevin Luis Apolinario Batista | Criação do relatório contínuo, desenvolvimento da visualização de extrato e histórico de valores de criptomoedas, integração dos dados do back no front, co-responsável pela interface gráfica | Excelente |
+| Victor Buendia Cruz de Alvim | Criação de protótipos de baixa e alta fidelidade, provisionamento de infraestrutura para frontend e microsserviços, implementação de CD para microsserviços, criação do endpoint de criptografia RSA, criação da API para guardar dados dos trades | Excelente |
 
-## Outros 
+## Outros
+
 ### Lições Aprendidas
-|Nome do Membro | Lições Aprendidas | 
-| -------- | -- | 
-| Ailton Aires Amado|   |  
-| João Vitor de Souza Durso |  |  
-| Kevin Luis Apolinario Batista |  |  
-| Victor Buendia Cruz de Alvim |  | 
 
-### Percepções
-|Nome do Membro | Percepções | 
-| -------- | -- | 
-| Ailton Aires Amado|   |  
-| João Vitor de Souza Durso  |  |  
-| Kevin Luis Apolinario Batista |  |  
-| Victor Buendia Cruz de Alvim |  | 
+| Nome do Membro | Lições Aprendidas |
+| -------- | -- |
+| Ailton Aires Amado | A importância da documentação clara e detalhada para a continuidade do projeto e a integração de novos membros. |
+| João Vitor de Souza Durso | A necessidade de um planejamento de infraestrutura bem elaborado para evitar problemas futuros de escalabilidade e integração. |
+| Kevin Luis Apolinario Batista | A importância de uma boa comunicação e colaboração entre os membros da equipe para alcançar os objetivos de forma eficiente. |
+| Victor Buendia Cruz de Alvim | A necessidade de testar e validar continuamente as funcionalidades para garantir a qualidade e a estabilidade do produto. |
 
 ### Fragilidades
-|Nome do Membro | Fragilidades | 
-| -------- | -- | 
-| Ailton Aires Amado|   |  
-| João Vitor de Souza Durso  |  |  
-| Kevin Luis Apolinario Batista |  |  
-| Victor Buendia Cruz de Alvim |  | 
+
+| Nome do Membro | Fragilidades |
+| -------- | -- |
+| Ailton Aires Amado | Dificuldade em gerenciar o tempo entre tarefas de desenvolvimento e documentação. |
+| João Vitor de Souza Durso | Desafios na integração de diferentes serviços e tecnologias no projeto. |
+| Kevin Luis Apolinario Batista | Dificuldade em manter a consistência e a coesão no desenvolvimento das interfaces gráficas. |
+| Victor Buendia Cruz de Alvim | Desafios no gerenciamento da infraestrutura de múltiplos microsserviços devido à complexidade. |
 
 ### Trabalhos Futuros
-|Nome do Membro | Trabalhos Futuros | 
-| -------- | -- | 
-| Ailton Aires Amado|  |  
-| João Vitor de Souza Durso  |  |  
-| Kevin Luis Apolinario Batista |  |  
-| Victor Buendia Cruz de Alvim |  | 
+
+| Nome do Membro | Trabalhos Futuros |
+| -------- | -- |
+| Ailton Aires Amado | Melhorar a documentação do projeto e implementar testes automatizados para garantir a qualidade do código. |
+| João Vitor de Souza Durso | Continuar a melhorar a infraestrutura do projeto e trabalhar na integração contínua das funcionalidades desenvolvidas. |
+| Kevin Luis Apolinario Batista | Focar na usabilidade e na experiência do usuário, refinando as interfaces gráficas e implementando feedbacks dos usuários. |
+| Victor Buendia Cruz de Alvim | Trabalhar na otimização do desempenho dos microsserviços e na segurança dos dados. |

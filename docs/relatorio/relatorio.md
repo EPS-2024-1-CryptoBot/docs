@@ -230,7 +230,7 @@ Nesta sprint, o objetivo é consolidar as funcionalidades básicas do MVP e adic
 | Ailton Aires Amado | Documentação da arquitetura do sistema, criação da lógica de armazenamento das credenciais do Binance, co-responsável pelo CRUD de usuário, co-responsável pela interface gráfica | Excelente |
 | João Vitor de Souza Durso | Desenvolvimento de funcionalidades de compra e venda de ações, implementação e empacotamento da aplicação desktop do bot, desenvolvimento da aba Cryptobot na interface web | Excelente |
 | Kevin Luis Apolinario Batista | Criação do relatório contínuo, desenvolvimento da visualização de extrato e histórico de valores de criptomoedas, integração dos dados do back no front, co-responsável pela interface gráfica | Excelente |
-| Victor Buendia Cruz de Alvim | Criação de protótipos de baixa e alta fidelidade, provisionamento de infraestrutura para frontend e microsserviços, implementação de CD para microsserviços, criação do endpoint de criptografia RSA, criação da API para guardar dados dos trades | Excelente |
+| Victor Buendia Cruz de Alvim | Criação de protótipos de baixa e alta fidelidade, provisionamento de infraestrutura para frontend e microsserviços, implementação de CD para microsserviços, criação do endpoint de criptografia RSA, criação do microsserviço da blockchain, implementação de testes na blockchain, implementação do SonarQube para todos os repositórios, provisionamento da infraestrutura para deploy da aplicação, criação da API para guardar dados dos trades | Excelente |
 
 ### Lições Aprendidas
 

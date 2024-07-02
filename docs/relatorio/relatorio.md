@@ -191,15 +191,17 @@ Nesta sprint foi realizada a entrega do MVP do projeto. A ideia é que a partir 
 | [US13] Conexão com alexa | Despriorizada |
 | [US06] Gerenciamento de perfil de investimento | Despriorizada |
 | [US07] Gerenciamento de estratégia de investimento | Despriorizada |
-| Melhoria da interface gráfica | Kevin Batista e Ailton Aires |
-| Implementação da página do CryptoBot | João Durso |
-| Criação do endpoint de criptografia RSA | Victor Buendia |
+| [US14] Melhoria da interface gráfica | Kevin Batista e Ailton Aires |
+| [US15] Implementação da aba Cryptobot na interface web | João Durso |
+| [US16] Criação do endpoint de criptografia RSA | Victor Buendia |
+| [US17] Implementação do Cryptobot para app desktop | João Durso |
 
 ## Sprint 5 (18 jun - 01 jul)
 
 ### Planning (18/06/2024)
 
-Na reunião de Planning da Sprint 5, a equipe revisou as entregas da Sprint 4 e avaliou o desempenho do MVP do projeto. Foram identificadas as funcionalidades finais a serem implementadas, com foco em melhorias de usabilidade e integração das capacidades do CryptoBot UnB com as funcionalidades dos outros grupos.
+Na reunião de Planning da Sprint 5, a equipe revisou as entregas da Sprint 4 e avaliou o desempenho do MVP do projeto. Foram identificadas as funcionalidades finais a serem implementadas, com foco em melhorias de usabilidade e integração das capacidades do CryptoBot UnB com as funcionalidades dos outros grupos. É importante frisar que nessa sprint houve uma mudança de escopo, por motivos de infraestrutura: toda a parte do bot que seria feita com sockets e threads geraria muito custo, tanto computacional quanto monetário, para a equipe em termos de requisições às APIs, por isso, o grupo preferiu
+desenvolver o bot COMPLETO apenas para desktop. Funções básicas do bot (compra/venda, consulta de criptomoedas, etc.) foram adicionadas à página web normalmente.
 
 #### Backlog da Sprint 5
 
@@ -209,12 +211,54 @@ Na reunião de Planning da Sprint 5, a equipe revisou as entregas da Sprint 4 e 
 | Página de histórico de transações | Kevin Batista |
 | Integração dos dados do back no front | Kevin Batista |
 | Criação da lógica de armazenamento das credenciais do Binance | Ailton Aires |
-| Empacotamento da aplicação desktop do Bot | João Durso |
+| Empacotamento da aplicação desktop do bot | João Durso |
 
-Nesta sprint, o objetivo é consolidar as funcionalidades básicas do MVP e adicionar novos recursos que incrementem a experiência do usuário e a eficiência do CryptoBot UnB.
+Nesta sprint, o objetivo é consolidar as funcionalidades básicas do MVP e adicionar novos recursos que incrementem a experiência do usuário e a eficiência do CryptoBot UnB. As tarefas dessa sprint não estão inclusas no backlog, pois são retificações de outras histórias de usuário e/ou do consumo da API de outros grupos.
 
 ## Sprint 6 (02 jul - 08 jul)
 ### Planning (02/06/2024)
 
 ## Sprint 7 (09 jul - 15 jul)
 ### Planning (09/06/2024)
+
+## Participações
+
+|Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| -- | -- | -- |
+| Ailton Aires Amado |  | Excelente |
+| João Vitor de Souza Durso |  | Excelente |
+| Kevin Luis Apolinario Batista |  | Excelente |
+| Victor Buendia Cruz de Alvim |  |  Excelente |
+
+## Outros 
+### Lições Aprendidas
+|Nome do Membro | Lições Aprendidas | 
+| -------- | -- | 
+| Ailton Aires Amado|   |  
+| João Vitor de Souza Durso |  |  
+| Kevin Luis Apolinario Batista |  |  
+| Victor Buendia Cruz de Alvim |  | 
+
+### Percepções
+|Nome do Membro | Percepções | 
+| -------- | -- | 
+| Ailton Aires Amado|   |  
+| João Vitor de Souza Durso  |  |  
+| Kevin Luis Apolinario Batista |  |  
+| Victor Buendia Cruz de Alvim |  | 
+
+### Fragilidades
+|Nome do Membro | Fragilidades | 
+| -------- | -- | 
+| Ailton Aires Amado|   |  
+| João Vitor de Souza Durso  |  |  
+| Kevin Luis Apolinario Batista |  |  
+| Victor Buendia Cruz de Alvim |  | 
+
+### Trabalhos Futuros
+|Nome do Membro | Trabalhos Futuros | 
+| -------- | -- | 
+| Ailton Aires Amado|  |  
+| João Vitor de Souza Durso  |  |  
+| Kevin Luis Apolinario Batista |  |  
+| Victor Buendia Cruz de Alvim |  | 

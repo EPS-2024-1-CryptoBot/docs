@@ -22,6 +22,17 @@ Benefícios Adicionais:
 
 - Segurança de Dados: Priorizamos a segurança dos seus dados e fundos financeiros.
 
+## Instalação e Execução do Projeto
+Após clonar este repositório, siga as instruções:
+
+1- Instale o Make na máquina;
+2- Instale o docker na máquina;
+3- Rode o comando: `make genesis`
+
+Esse comando clonará os repositórios e executará o docker de cada serviço.
+
+Além desse comando Genesis. Todos os repositórios disponíveis tem seus próprios containers e suas instruções de como se ambientar. Utilize o `make help` para se ambientar aos comandos.
+
 ## Alunos
 
 | Matrícula  | Aluno                                    |                                                 |
@@ -30,3 +41,5 @@ Benefícios Adicionais:
 | 18/0123459 | [João Vitor de Souza Durso](https://github.com/jvsdurso) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69814362?v=4" width="100px;" alt=""/> |
 | 18/0042386 | [Kevin Luis Apolinario Batista](https://github.com/k3vin-batista) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69855188?v=4" width="100px;" alt=""/> |
 | 19/0020601 | [Victor Buendia Cruz de Alvim](https://github.com/Victor-Buendia) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54643355?v=4" width="100px;" alt=""/>  |
+
+

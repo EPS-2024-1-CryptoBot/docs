@@ -114,6 +114,22 @@ Data de realização: 18/04/2024
 | Kevin Batista | Sim  |
 | Victor Buendia | Sim  |
 
+## Desafio Liga Jovem SEBRAE
+
+Para participar, a equipe realizou a inscrição e formou o grupo, seguido da participação na Virada Empreendedora, onde assistiram a palestras e workshops sobre inovação e empreendedorismo, marcando presença em todas as atividades.
+
+A partir da pesquisa sobre as necessidades do mercado de criptomoedas, a equipe desenvolveu o protótipo do Cryptobot UnB. A aplicação foi projetada para facilitar as operações de trading de criptomoedas, permitindo a automação das transações de compra e venda, o que ajuda a maximizar os lucros e minimizar as perdas dos usuários.
+
+Após o desenvolvimento, a equipe gravou um vídeo de apresentação do aplicativo, por meio de um pitch de vendas, destacando suas funcionalidades e benefícios, e submeteu toda a documentação requerida dentro do prazo estipulado. 
+
+### Tabela de participação
+
+| Nome | Compareceu e Participou |
+| ---- | -------- |
+| Ailton Aires | Sim  |
+| João Durso | Sim  |
+| Kevin Batista | Sim  |
+| Victor Buendia | Sim  |
 
 ## Sprint 1 (22 abr - 06 mai)
 

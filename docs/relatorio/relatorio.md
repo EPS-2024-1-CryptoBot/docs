@@ -247,7 +247,7 @@ Nesta sprint, o objetivo é consolidar as funcionalidades básicas do MVP e adic
 | -------- | -- |
 | Ailton Aires Amado | Dificuldade em gerenciar o tempo entre tarefas de desenvolvimento e documentação. |
 | João Vitor de Souza Durso | Desafios na integração de diferentes serviços e tecnologias no projeto. |
-| Kevin Luis Apolinario Batista | Dificuldade em manter a consistência e a coesão no desenvolvimento das interfaces gráficas. |
+| Kevin Luis Apolinario Batista | Dificuldade de lidar com microsserviços, já que não foi autorizado outros tipos de arquitetura |
 | Victor Buendia Cruz de Alvim | Desafios no gerenciamento da infraestrutura de múltiplos microsserviços devido à complexidade. |
 
 ### Trabalhos Futuros

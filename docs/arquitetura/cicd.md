@@ -347,4 +347,4 @@ Sua análise é empregada em todos os repositórios do projeto e é uma parte es
 
 | Data | Versão | Modificação | Autor |
 | :- | :- | :- | :- |
-| 10/07/2024 | 0.1 | Criação do documento | [Victor Buendia](https://github.com/Victor-Buendia) |
+| 06/07/2024 | 0.1 | Criação do documento | [Victor Buendia](https://github.com/Victor-Buendia) |

@@ -12,6 +12,7 @@
     - [Roadmap](./roadmap/roadmap.md)
 - **Arquitetura**
     - [Documento de Arquitetura](./arquitetura/arquitetura.md)
+    - [Pipeline CI/CD](./arquitetura/cicd.md)
 - **Relatório**
     - [Relatório Contínuo](./relatorio/relatorio.md)
 - **Comunicação**
